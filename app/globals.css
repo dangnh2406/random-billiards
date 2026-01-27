@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Raleway|Rouge+Script");
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { min-height: 100%; }
+body {
+  font-family: 'Raleway', sans-serif;
+  background: #fff8f6;
+  color: #222;
+}
